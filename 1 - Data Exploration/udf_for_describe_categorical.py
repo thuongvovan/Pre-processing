@@ -91,7 +91,7 @@ def create_bar_chart(table):
     fig.show()
 
 # Functinon for describe category variable
-def describe_category_variable(data, cat_var):
+def describe_categorical_variable(data, cat_var):
     n_string= int((80 - len(cat_var)) / 2)
     print(formart_text.GREEN + '-' * n_string + cat_var +'-' * n_string + formart_text.END)
 
