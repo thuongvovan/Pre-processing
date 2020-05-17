@@ -13,7 +13,7 @@
 - Mã hóa biến số liên tục: [với Pandas](https://github.com/thuongvovan/Pre-processing/blob/master/3%20-%20Feature%20Engineering/Categorical%20variable%20encoding%20with%20Pandas.ipynb), [với Scikit-Learn](https://github.com/thuongvovan/Pre-processing/blob/master/3%20-%20Feature%20Engineering/Categorical%20variable%20encoding%20with%20Scikit-Learn.ipynb)
 - Mã hóa biến số phân loại: [với Pandas](https://github.com/thuongvovan/Pre-processing/blob/master/3%20-%20Feature%20Engineering/Numerical%20variable%20encoding%20with%20Pandas.ipynb), [với Scikit-Learn](https://github.com/thuongvovan/Pre-processing/blob/master/3%20-%20Feature%20Engineering/Numerical%20variable%20encoding%20with%20Scikit-Learn.ipynb)
 
-#### 4. Chuẩn hóa dữ liệu
+#### 4. [Chuẩn hóa dữ liệu](https://github.com/thuongvovan/Pre-processing/tree/master/4%20-%20Fearure%20Standardization)
 - Co dãn dữ liệu: [với Pandas - Numpy](https://github.com/thuongvovan/Pre-processing/blob/master/4%20-%20Fearure%20Standardization/Feature%20%20scaling%20with%20Pandas%20Numpy.ipynb), [với Scikit-Learn](https://github.com/thuongvovan/Pre-processing/blob/master/4%20-%20Fearure%20Standardization/Feature%20%20scaling%20with%20Scikit-Learn.ipynb)
 - [Biến đổi dữ liệu thành phân phối bình thường](https://github.com/thuongvovan/Pre-processing/blob/master/4%20-%20Fearure%20Standardization/Transform%20data%20for%20Normal%20Distribution.ipynb)
 
