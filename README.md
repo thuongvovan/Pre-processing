@@ -1,4 +1,7 @@
-# Một số kỹ thuật tiền xử lý dữ liệu
+# Một số kỹ thuật tiền xử lý dữ liệu  
+
+Tiền xử lý dữ liệu là công đoạn hết sức quan trọng trong xây dựng mô hình học máy. Các bộ dữ liệu cần được xử lý, làm sạch, chuẩn hóa (gọi chung là tiền xử lý) để phù hợp với thuật toán hoặc tăng tính chính xác của thuật toán. Trong thực tế phần lớn thời gian của các nhà khoa học dữ liệu dành để thực hiện công đoạn tiền xử lý.  
+Dưới đây là tổng hợp một số phương pháp tiền xử lý cơ bản:  
 
 #### 1. [Thăm dò dữ liệu](https://github.com/thuongvovan/Pre-processing/tree/master/1%20-%20Data%20Exploration)
 - [Biến số phân loại](https://github.com/thuongvovan/Pre-processing/blob/master/1%20-%20Data%20Exploration/1.%20Describe%20categorical%20variable.ipynb)
